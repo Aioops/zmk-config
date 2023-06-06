@@ -15,3 +15,5 @@
 include:
   - board: nrfmicro_13
     shield: tidbit
+  - board: nrfmicro_13
+    shield: boardsource3x4
